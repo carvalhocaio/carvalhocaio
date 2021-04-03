@@ -1,7 +1,6 @@
 ### Saudações!
 A tecnologia sempre despertou minha curiosidade, a programação foi a maneira que encontrei de explorar esse sentimento.
 
-##
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
