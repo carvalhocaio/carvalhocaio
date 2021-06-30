@@ -1,5 +1,7 @@
-### Saudações!
-A tecnologia sempre despertou minha curiosidade, a programação foi a maneira que encontrei de explorar esse sentimento.
+### Desenvolvedor Full Stack (Full Stack Developer)
+Comecei desenvolvendo no backend utilizando Python com Django e Flask e utilizando MySQL, Oracle e Postgres como banco de dados. Senti a necessidade de atuar também no frontend, sendo assim estudei Javacript e utilizo Vue.js e React.js nas aplicações que desenvolvo.
+
+I started developing on the backend using Python with Django and Flask and using MySQL, Oracle and Postgres as database. I felt the need to work on the frontend as well, so I studied Javascript and use Vue.js and React.js in the applications I develop.
 
 
 <div style="display: inline_block"><br>
